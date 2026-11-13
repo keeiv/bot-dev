@@ -1,0 +1,19 @@
+{
+  "name": "bot-dev",
+  "version": "0.1.0",
+  "description": "Knows the BOT. Discord bot (keeiv/bot): its architecture, checks, done criteria and how to ship, active only inside a BOT. checkout.",
+  "author": {
+    "name": "Keeiv",
+    "url": "https://github.com/keeiv"
+  },
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "discord-bot",
+    "keeiv",
+    "project-knowledge"
+  ],
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/keeiv/bot-dev",
+  "repository": "https://github.com/keeiv/bot-dev",
+  "icon": "./assets/icon.png"
+}

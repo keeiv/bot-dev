@@ -1,0 +1,17 @@
+{
+  "name": "bot-dev",
+  "owner": {
+    "name": "Keeiv",
+    "url": "https://github.com/keeiv"
+  },
+  "metadata": {
+    "description": "bot-dev, the Claude Code plugin for working on the BOT. Discord bot."
+  },
+  "plugins": [
+    {
+      "name": "bot-dev",
+      "source": "./",
+      "description": "Knows the BOT. Discord bot (keeiv/bot): its architecture, checks, done criteria and how to ship, active only inside a BOT. checkout."
+    }
+  ]
+}
