@@ -2,11 +2,14 @@
 
 **EN** | [繁中](../README.md)
 
-<img src="../assets/icon.png" alt="bot-dev" width="128">
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/bot-dev-wordmark-light.png">
+    <img src="../assets/bot-dev-wordmark.png" alt="bot-dev" width="360">
+  </picture>
+</h1>
 
 </div>
-
-# bot-dev
 
 A Claude Code plugin for working on [BOT.](https://github.com/keeiv/bot), the discord.py bot by Keeiv. Inside a BOT. checkout it tells Claude how the project is built, what "done" means there and how changes are shipped. Anywhere else it stays silent.
 

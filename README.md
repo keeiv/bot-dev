@@ -2,11 +2,14 @@
 
 [EN](docs/README.en.md) | **繁中**
 
-<img src="assets/icon.png" alt="bot-dev" width="128">
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/bot-dev-wordmark-light.png">
+    <img src="assets/bot-dev-wordmark.png" alt="bot-dev" width="360">
+  </picture>
+</h1>
 
 </div>
-
-# bot-dev
 
 為 [BOT.](https://github.com/keeiv/bot)（Keeiv 的 discord.py 機器人）撰寫的 Claude Code 插件。在 BOT. 的專案裡，它會告訴 Claude 專案怎麼組成、什麼才算完成、變更怎麼提交；在其他地方完全不作用。
 

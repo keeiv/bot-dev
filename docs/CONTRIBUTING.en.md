@@ -2,7 +2,10 @@
 
 **EN** | [繁中](../CONTRIBUTING.md)
 
-<img src="../assets/icon.png" alt="bot-dev" width="96">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/bot-dev-wordmark-light.png">
+  <img src="../assets/bot-dev-wordmark.png" alt="bot-dev" width="250">
+</picture>
 
 </div>
 
